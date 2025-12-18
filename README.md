@@ -29,7 +29,7 @@ Quietly building things that work (or sometimes don’t). Aspiring DevOps Engine
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lykon7&label=Profile+Views&color=800080&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=LoneWolf728&label=Profile+Views&color=800080&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/lykon7?style=flat-square&label=Stars&color=800080" alt="GitHub Stars"/>
 </p>
 
