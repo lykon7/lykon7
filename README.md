@@ -24,7 +24,7 @@
 
 <!-- Bottom row: Centered item -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=4A4A4A&duration=3000&pause=3000&width=80&lines=Batman" alt="Typing - Cyber"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=4A4A4A&weight=700&duration=3000&pause=3000&width=80&lines=Batman" alt="Typing - Cyber"/>
 </div>
 
 <p align="center">
