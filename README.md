@@ -193,7 +193,7 @@ A Chrome extension that (gently) roasts you for hoarding tabs like a digital dra
 ## Outside the Code - Now Listening to...
 
 <div align="center">
-  <a href="https://open.spotify.com/user/lonewolf728" target="_blank">
+  <a href="https://open.spotify.com/user/142abgihqsgbg4buhfjqbftke" target="_blank">
     <img src="https://novatorem-lykos-projects-3064553d.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
   </a>
 </div>
